@@ -1,5 +1,28 @@
 # Local Development API Server
 ## Usage
+I am a server for restaurant review stage 2.  Please don't delete me but run me anytime you are 
+running restaurant review stage 2.
+
+  * Run the following code your terminal:    
+    ###### Install project dependencies
+    ```Install project dependencies [don't copy the # hashtag, it is just the indication that this is a code you need to put inside of terminal, run this for the first time only]
+    # npm i
+    ```
+    ###### Install Sails.js globally (run this for the first time only)
+    ```Install sails global
+    # npm i sails -g
+    ```
+    ###### Start the server 
+    ```Start server
+    # node server
+    ```
+    ### You should now have access to your API server environment
+    debug: Environment : development
+    debug: Port        : 1337
+
+  * copy http://localhost:1337/restaurants to your browser and see your data running on Sails server!
+
+
 #### What is this server doing?
 This is Node.js and Sails.js servers providing restaurant info to [Restaurant Review Web App](https://github.com/heggy231/mws-restaurant-review)
 #### Get Restaurants
