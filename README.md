@@ -1,5 +1,7 @@
 # Local Development API Server
 ## Usage
+#### What is this server doing?
+This is Node.js and Sails.js servers providing restaurant info to [Restaurant Review Web App](https://github.com/heggy231/mws-restaurant-review)
 #### Get Restaurants
 ```
 curl "http://localhost:1337/restaurants"
@@ -16,6 +18,7 @@ Local server
 
 ## Contributors
 
+- [Heggy Castaneda - Frontend engineer](mailto:heggyy@gmail.com)
 - [Brandy Lee Camacho - Technical Project Manager](mailto:brandy.camacho@udacity.com)
 - [David Harris - Web Services Lead](mailto:david.harris@udacity.com)
 - [Omar Albeik - Frontend engineer](mailto:omaralbeik@gmail.com)
