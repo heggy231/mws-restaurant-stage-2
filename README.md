@@ -12,15 +12,17 @@ running restaurant review stage 2.
     ```Install sails global
     # npm i sails -g
     ```
-    ###### Start the server 
+    ###### Start the server (Do not include #!!)
     ```Start server
-    # node server
+    # node server // !!! Do not include #!!!
     ```
     ### You should now have access to your API server environment
     debug: Environment : development
     debug: Port        : 1337
 
-  * copy http://localhost:1337/restaurants to your browser and see your data running on Sails server!
+  * We have your data running at http://localhost:1337/restaurants 
+  * Check it in your browser
+    http://localhost:1337/restaurants 
 
 
 #### What is this server doing?
