@@ -3,7 +3,7 @@
 I am a server for restaurant review stage 2.  Please don't delete me but run me anytime you are 
 running restaurant review stage 2.
 
-  * Run the following code your terminal:    
+  * First time Run the following code your terminal:    
     ###### Install project dependencies
     ```Install project dependencies [don't copy the # hashtag, it is just the indication that this is a code you need to put inside of terminal, run this for the first time only]
     # npm i
@@ -22,8 +22,10 @@ running restaurant review stage 2.
 
   * We have your data running at http://localhost:1337/restaurants 
   * Check it in your browser
-    http://localhost:1337/restaurants 
-
+    http://localhost:1337/restaurants
+    
+ * Second time serve:
+  > node server
 
 #### What is this server doing?
 This is Node.js and Sails.js servers providing restaurant info to [Restaurant Review Web App](https://github.com/heggy231/mws-restaurant-review)
